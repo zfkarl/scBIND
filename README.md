@@ -1,4 +1,4 @@
-# scBIND: A General Single-cell Data Analysis Framework\\ with LLM-based Bi-level Knowledge Databases
+# scBIND: A General Single-cell Data Analysis Framework with LLM-based Bi-level Knowledge Databases
 
 ## Introduction
 scBIND is a general framework for single-cell data analysis, which injects LLM priors via bi-level knowledge databases.
