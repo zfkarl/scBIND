@@ -8,7 +8,6 @@ from lightning.pytorch.callbacks import LearningRateMonitor, EarlyStopping,Model
 from utils.dataset import CellTextDataModule_MS
 from utils.clip import CLIPModel, Classifier
 from utils.vit import ViTConfig
-from utils.callback import Monitor
 from utils.config import get_model_config
 from utils.logger import create_logger
 
